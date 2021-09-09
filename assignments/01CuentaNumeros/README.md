@@ -34,10 +34,10 @@ La función deberá retornar el resultado de la suma que deberás utilizar para 
 
 Si el usuario ingresa un número negativo o cero como entrada, el programa deberá mostrar el mensaje "El número es inválido".
 
-Entrada
+  ### Entrada
 Un número entero positivo n.
 
-Salida
+  ### Salida
 Una secuencia como la que se muestra en el ejemplo.
 
 Ejemplos de ejecución del programa:
