@@ -66,62 +66,6 @@ El número es inválido
 
   
 
-El nombre del programa debe ser <b>sumatoria_secuencial.py</b>
-</div>
-
-
-#### Entrada
-Un número entero positivo n
-
-#### Salida
-Los números enteros desde 1 hasta n, uno en cada renglón
-
-#### NOTA IMPORTANTE:
-Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
-
-La salida del programa debe de ser exactamente de la siguiente forma:
-
-```
-5
-1
-2
-3
-4
-5
-
-
-
-15
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-
-10
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-
-```
-
 **Nota:** No te preocupes por esta parte del código
 `if __name__ == '__main__':` por el momento.
 No la vamos a necesitar para este programa, pero es una buena práctica
